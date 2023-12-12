@@ -1,15 +1,12 @@
 /**
-*** Diablo 4 DSC THEME ***
-** BACKGROUND IMG: https://i.redd.it/3i3z4ijxfpn61.jpg **
-** BACKGROUND GIF: https://steamuserimages-a.akamaihd.net/ugc/1992310365990405648/8D3B941494B5077CB450C37A3731572CF1B25511/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true **
-** Diablo 3: https://i.gifer.com/origin/24/24ccb6aefb1ecd644770a8a169528db7_w200.gif **
-** Portal: https://i.gifer.com/Uux9.gif
+*** HACKER DSC THEME ***
 **/
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@700&display=swap');
 
 :root {
---background-image: url('https://i.redd.it/3i3z4ijxfpn61.jpg');
+--background-image: url('https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif');
 --background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
@@ -17,7 +14,7 @@
 --popout-modal-blur: 0px;
 --popout-modal-size: cover;
 --popout-modal-position: center;
---home-button-image: url('https://files.cults3d.com/uploaders/28401648/illustration-file/ce08682f-caab-474f-9b1a-25bd6a12da5e/DIV.gif');
+--home-button-image: url('https://i.gifer.com/fxVE.gif');
 --home-button-size: cover;
 --home-button-position: center;
 --serverlist-brightness: 0.0;
@@ -25,16 +22,16 @@
 --middle-brightness: 0.0;
 --right-brightness: 0.0;
 --popout-modal-brightness: 0.0;
---gradient-primary: 35,0,0;
---gradient-secondary: 100,32,11;
+--gradient-primary: 0,35,0;
+--gradient-secondary: 32,100,11;
 --gradient-direction: 155deg;
 --tint-colour: 0,0,0; /* Color del fondo */
---tint-brightness: 0.0; /* Opacidad del fondo */
+--tint-brightness: 0.8; /* Opacidad del fondo */
 --window-padding: 30px; /* Espacio lateral entre el discord y la propia ventana */
 --window-roundness: 0px; /* Borde del discord */
---scrollbar-colour: #6e0f00; /* Color de la barra para subir y bajar */
---link-colour: #6e0f00; /* Color de los links */
+--scrollbar-colour: #056e00; /* Color de la barra para subir y bajar */
+--link-colour: #00812d; /* Color de los links */
 --show-gift-gif-buttons: no-repeat;
---font: 'Josefin Slab';
+--font: 'IBM Plex Mono';
 --update-notice-1: none;
 }
