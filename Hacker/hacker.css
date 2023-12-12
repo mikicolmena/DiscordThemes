@@ -2,7 +2,6 @@
 *** HACKER DSC THEME ***
 **/
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@700&display=swap');
 
 :root {
@@ -10,11 +9,11 @@
 --background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
---popout-modal-image: url('https://img1.goodfon.com/wallpaper/nbig/c/15/art-diablo-3-tyrael-krylya.jpg');
+--popout-modal-image: url('https://i.gifer.com/T0fK.gif');
 --popout-modal-blur: 0px;
 --popout-modal-size: cover;
 --popout-modal-position: center;
---home-button-image: url('https://i.gifer.com/fxVE.gif');
+--home-button-image: url('https://i.gifer.com/T0fK.gif');
 --home-button-size: cover;
 --home-button-position: center;
 --serverlist-brightness: 0.0;
