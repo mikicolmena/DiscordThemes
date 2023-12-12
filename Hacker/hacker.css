@@ -2,11 +2,11 @@
 *** HACKER DSC THEME ***
 **/
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
-@import url('https://fonts.googleapis.com/css2?family=Roboto');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@700&display=swap');
 
 :root {
---background-image: url('https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif');
+--background-image: url('https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif');
 --background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
@@ -22,16 +22,16 @@
 --middle-brightness: 0.0;
 --right-brightness: 0.0;
 --popout-modal-brightness: 0.0;
---gradient-primary: 35,0,0;
---gradient-secondary: 100,32,11;
+--gradient-primary: 0,35,0;
+--gradient-secondary: 32,100,11;
 --gradient-direction: 155deg;
 --tint-colour: 0,0,0; /* Color del fondo */
---tint-brightness: 0.5; /* Opacidad del fondo */
+--tint-brightness: 0.8; /* Opacidad del fondo */
 --window-padding: 30px; /* Espacio lateral entre el discord y la propia ventana */
 --window-roundness: 0px; /* Borde del discord */
---scrollbar-colour: #6e0f00; /* Color de la barra para subir y bajar */
---link-colour: #6e0f00; /* Color de los links */
+--scrollbar-colour: #056e00; /* Color de la barra para subir y bajar */
+--link-colour: #00812d; /* Color de los links */
 --show-gift-gif-buttons: no-repeat;
---font: 'Josefin Slab';
+--font: 'IBM Plex Mono';
 --update-notice-1: none;
 }
