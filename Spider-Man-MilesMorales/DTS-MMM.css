@@ -10,30 +10,30 @@
 
 :root {
 --background-image: url('https://i.imgur.com/ssDCaRX.jpg');
---background-image-blur: 100px;
+--background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
---popout-modal-image: url('https://img1.goodfon.com/wallpaper/nbig/c/15/art-diablo-3-tyrael-krylya.jpg');
+--popout-modal-image: url('https://wallpapers.com/images/high/miles-morales-background-1eh4f3mxudabxoz3.webp');
 --popout-modal-blur: 0px;
 --popout-modal-size: cover;
 --popout-modal-position: center;
---home-button-image: url('https://files.cults3d.com/uploaders/28401648/illustration-file/ce08682f-caab-474f-9b1a-25bd6a12da5e/DIV.gif');
+--home-button-image: url('https://i.etsystatic.com/14014880/r/il/fe4fc5/5034017373/il_fullxfull.5034017373_vw2i.jpg');
 --home-button-size: cover;
 --home-button-position: center;
 --serverlist-brightness: 0.0;
---left-brightness: 0.0;
---middle-brightness: 0.0;
---right-brightness: 0.0;
---popout-modal-brightness: 0.0;
---gradient-primary: 35,0,0;
---gradient-secondary: 100,32,11;
+--left-brightness: 0.3;
+--middle-brightness: 0.3;
+--right-brightness: 0.3;
+--popout-modal-brightness: 0.3;
+--gradient-primary: 231,13,13;
+--gradient-secondary: 180,16,16;
 --gradient-direction: 155deg;
 --tint-colour: 0,0,0; /* Color del fondo */
---tint-brightness: 0.0; /* Opacidad del fondo */
+--tint-brightness: 0.6; /* Opacidad del fondo */
 --window-padding: 30px; /* Espacio lateral entre el discord y la propia ventana */
---window-roundness: 0px; /* Borde del discord */
---scrollbar-colour: #6e0f00; /* Color de la barra para subir y bajar */
---link-colour: #6e0f00; /* Color de los links */
+--window-roundness: 10px; /* Borde del discord */
+--scrollbar-colour: #E70D0D; /* Color de la barra para subir y bajar */
+--link-colour: #E70D0D; /* Color de los links */
 --show-gift-gif-buttons: no-repeat;
 --font: 'Josefin Slab';
 --update-notice-1: none;
