@@ -8,7 +8,7 @@
 
 :root {
 --background-image: url('https://wallpapercat.com/w/full/2/6/f/861809-3840x2160-desktop-4k-riku-kingdom-hearts-background-image.jpg');
---background-image-blur: 0px;
+--background-image-blur: 10px;
 --background-image-size: cover;
 --background-image-position: center;
 --popout-modal-image: url('https://img1.goodfon.com/wallpaper/nbig/c/15/art-diablo-3-tyrael-krylya.jpg');
