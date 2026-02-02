@@ -30,7 +30,7 @@
 --gradient-direction: 155deg;
 --tint-colour: 0,0,0; /* Color del fondo */
 --tint-brightness: 0.6; /* Opacidad del fondo */
---window-padding: 30px; /* Espacio lateral entre el discord y la propia ventana */
+--window-padding: 0px; /* Espacio lateral entre el discord y la propia ventana */
 --window-roundness: 10px; /* Borde del discord */
 --scrollbar-colour: #E70D0D; /* Color de la barra para subir y bajar */
 --link-colour: #E70D0D; /* Color de los links */
